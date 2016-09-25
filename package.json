@@ -1,0 +1,22 @@
+{
+  "name": "autotrailer",
+  "version": "1.0.0",
+  "description": "Aplicacao de automacao trailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fcmacedo/autotrail.git"
+  },
+  "author": "FMacedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcmacedo/autotrail/issues"
+  },
+  "homepage": "https://github.com/fcmacedo/autotrail#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
